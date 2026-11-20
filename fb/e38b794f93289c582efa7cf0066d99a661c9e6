@@ -1,0 +1,33 @@
+scripts/dev-web.mjs
+  s_9dbc91d0be695d::t_e995ac907918dd 7-10,13
+  s_4d17a07d4f6b1f::t_fcb794ce91a235 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fbe38b794f93289c582efa7cf0066d99a661c9e6",
+  "prompts": {},
+  "humans": {
+    "h_5167a090c9bda0": {
+      "author": "lufei <lufei@onero.com>"
+    }
+  },
+  "sessions": {
+    "s_4d17a07d4f6b1f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f6e1-28c0-7ef3-86ea-c5f38077217c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Sosadfly <childrenbodyemail@qq.com>"
+    },
+    "s_9dbc91d0be695d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f6ba-97cc-7102-ac51-5b736cf4662d",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Sosadfly <childrenbodyemail@qq.com>"
+    }
+  }
+}
