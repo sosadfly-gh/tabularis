@@ -1,0 +1,23 @@
+src-tauri/src/drivers/mysql/cancel.rs
+  s_631a5c42f1aa09::t_097ca0e309877b 8-10
+  s_631a5c42f1aa09::t_a981b8afef1ccc 16-27,48,52-58
+src-tauri/src/drivers/mysql/cancel/tests.rs
+  s_631a5c42f1aa09::t_888141e2d21416 1-14,19-20
+  s_631a5c42f1aa09::t_097ca0e309877b 15-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4e8244003b31efcc59ad7b2848ca46b016cd541a",
+  "prompts": {},
+  "sessions": {
+    "s_631a5c42f1aa09": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f85a-9563-7882-b5a1-15b7027897f0",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Sosadfly <childrenbodyemail@qq.com>"
+    }
+  }
+}
