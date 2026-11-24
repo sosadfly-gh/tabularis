@@ -1,0 +1,319 @@
+README.md
+  s_112ba831203b93::t_fd773df1ea4941 302
+docs/web/WEB_MODE_OPERATIONS.md
+  s_112ba831203b93::t_b3bb797fe2fae4 106
+packages/explain/src/components/ExplainGraph.tsx
+  s_112ba831203b93::t_916423c62d50a8 1,53-62,64-67
+packages/web-ui/src/api/contract.ts
+  s_112ba831203b93::t_cb493041a99840 190,241-246,860-872
+packages/web-ui/src/components/credentialProfiles/CredentialProfilesManager.tsx
+  s_112ba831203b93::t_01e05fbcdd4c3d 1-469
+packages/web-ui/src/components/layout/ConnectionColorBar.tsx
+  s_112ba831203b93::t_333d8565ea5060 1-37
+packages/web-ui/src/components/layout/MainLayout.tsx
+  s_112ba831203b93::t_1b207d4e50b210 18,41-50,54-75
+packages/web-ui/src/components/layout/Sidebar.tsx
+  s_112ba831203b93::t_a743ea79b4bb19 25,427-428
+packages/web-ui/src/components/layout/sidebar/AvailableUpdateButton.tsx
+  s_112ba831203b93::t_9a2e9ed3227f0d 1-23
+packages/web-ui/src/components/modals/CredentialProfileConnectionFields.tsx
+  s_112ba831203b93::t_9492492b3baf87 1-232
+packages/web-ui/src/components/modals/CredentialProfilesModal.tsx
+  s_112ba831203b93::t_bcb066c1ff2243 1-47
+packages/web-ui/src/components/modals/NewConnectionModal.tsx
+  s_112ba831203b93::t_216832b21233f7 37,42-43,96-111,177,264-265,274-275,277-279,285-288,293,299-300,316-318,336,542-543,545,844-849,907-911,1167,2122-2128,2159-2166,2173,2189,2344-2347,2599,2604-2636,2667-2680,2683-2706,2708,2711-2731,2733-2735,2764-2765,2791-2796,3296-3319,3328-3333,3345-3348,3355-3360,3372-3373,5499-5508
+packages/web-ui/src/components/modals/TriggerEditorModal.tsx
+  s_112ba831203b93::t_8e471b933dfc3a 15,56,70,74-75,108-109,160,180-181,183-184,227,259,282,497
+packages/web-ui/src/components/notebook/NotebookCellWrapper.tsx
+  s_112ba831203b93::t_1607bea977e1f8 27-28,53,164
+packages/web-ui/src/components/notebook/NotebookReportView.tsx
+  s_112ba831203b93::t_bfe430c781f6c6 7,19-21,119-121,133-139
+packages/web-ui/src/components/notebook/NotebookView.tsx
+  s_112ba831203b93::t_348740ae4910e0 39-40,54-59,116,148-150,378-392,426-435,569,685-706,721,725-765,767-774,776-785,790,898-899,904,1097-1108,1179,1213-1215,1236-1242,1295
+packages/web-ui/src/components/notebook/ParamsPanel.tsx
+  s_112ba831203b93::t_e31d9bede698e2 1,4-5,8,14-25,27,32-39,42-54,57-59,62-66,69-72,74-109,111-265,336-342,345-348,352-361,363-393,395,403-413,417-420,422-426
+packages/web-ui/src/components/notebook/SqlCell.tsx
+  s_112ba831203b93::t_fb63fa1e10e4fd 23,41,90-91,95
+packages/web-ui/src/components/settings/AppearanceTab.tsx
+  s_112ba831203b93::t_b70877576072e6 14,35-37,126,137-139,146-176
+packages/web-ui/src/components/settings/CredentialProfilesTab.tsx
+  s_112ba831203b93::t_2b65918af14a1e 1-18
+packages/web-ui/src/components/settings/SettingControls.tsx
+  s_112ba831203b93::t_664e724a2bab11 1-10,179-185,188-230,234,239-251
+packages/web-ui/src/components/ssh/SshConnectionsManager.tsx
+  s_112ba831203b93::t_8faee951cf91c4 42,68-70
+packages/web-ui/src/components/ui/PasswordInput.tsx
+  s_112ba831203b93::t_06e26e15377e39 2,30,57
+packages/web-ui/src/components/ui/RelatedRecordsPanel.tsx
+  s_112ba831203b93::t_9d91acc967dcf7 85-88,121,123
+packages/web-ui/src/contexts/DatabaseContext.ts
+  s_112ba831203b93::t_ecc5ff2c2e1e49 67-68
+packages/web-ui/src/contexts/ProductionGuardContext.tsx
+  s_112ba831203b93::t_52b2aa84706320 1,28,33-43,47-49,52,64-67,69-78
+packages/web-ui/src/contexts/SettingsContext.ts
+  s_112ba831203b93::t_19e159e7313cd1 72-75,262-263
+packages/web-ui/src/contexts/UpdateContext.ts
+  s_112ba831203b93::t_6065be1b9ee954 36
+packages/web-ui/src/contexts/UpdateProvider.tsx
+  s_112ba831203b93::t_ebe4574ac72bd9 7,17,130,145,157
+packages/web-ui/src/contexts/WebSessionProvider.tsx
+  s_112ba831203b93::t_2e61f0ffcffcb4 1-13
+packages/web-ui/src/contexts/webSession.ts
+  s_112ba831203b93::t_0c7bbfb7c17cf0 1-4
+packages/web-ui/src/hooks/useCanManageCredentialProfiles.ts
+  s_112ba831203b93::t_69b2b0df359f04 1-9
+packages/web-ui/src/hooks/useDangerousQueryGuard.ts
+  s_112ba831203b93::t_60dd5481bc54a6 14-17,34-38,44-46,49-51,55-57,62-64
+packages/web-ui/src/hooks/useDrivers.ts
+  s_112ba831203b93::t_cbb96e2a8e5603 86-87
+packages/web-ui/src/hooks/useQueryGuards.ts
+  s_112ba831203b93::t_e55ed997efd26c 3,9
+packages/web-ui/src/hooks/useWebSession.ts
+  s_112ba831203b93::t_9755ffd701aefe 1-7
+packages/web-ui/src/i18n/locales/de.json
+  s_112ba831203b93::t_fc120ff5d5cf32 162-163,831-842,1490-1503,1593,1658-1692,2355-2390
+packages/web-ui/src/i18n/locales/en.json
+  s_112ba831203b93::t_1eeb2692130643 166-167,865-876,1561-1574,1664,1729-1763,2429-2464
+packages/web-ui/src/i18n/locales/es.json
+  s_112ba831203b93::t_1cc3de7d29e6f7 162-163,862-873,1521-1534,1624,1689-1723,2329-2364
+packages/web-ui/src/i18n/locales/fr.json
+  s_112ba831203b93::t_e124b2ec8e00a0 166-167,865-876,1528-1541,1631,1696-1730,2392-2427
+packages/web-ui/src/i18n/locales/it.json
+  s_112ba831203b93::t_c3ac809a8cc0b6 170-171,870-881,1557-1570,1660,1725-1759,2416-2451
+packages/web-ui/src/i18n/locales/ja.json
+  s_112ba831203b93::t_8989aa41c1278d 166-167,846-857,1505-1518,1608,1672-1706,2363-2398
+packages/web-ui/src/i18n/locales/ko.json
+  s_112ba831203b93::t_4a6396010581f0 132-133,799-810,1455-1468,1558,1622-1656,2316-2351
+packages/web-ui/src/i18n/locales/pt-BR.json
+  s_112ba831203b93::t_66d79d7a18dbce 159-160,858-869,1557-1570,1660,1725-1759,2425-2460
+packages/web-ui/src/i18n/locales/ru.json
+  s_112ba831203b93::t_4da787e245bd84 166-167,830-841,1490-1503,1591,1657-1691,2369-2404
+packages/web-ui/src/i18n/locales/tl.json
+  s_112ba831203b93::t_330a0212e2edca 166-167,865-876,1521-1534,1624,1688-1722,2383-2418
+packages/web-ui/src/i18n/locales/vi.json
+  s_112ba831203b93::t_717014a7a3a7c9 166-167,853-864,1551-1564,1647,1712-1746,2394-2429
+packages/web-ui/src/i18n/locales/zh-TW.json
+  s_112ba831203b93::t_170f0849bf34ae 166-167,859-870,1557-1570,1653,1718-1752,2399-2434
+packages/web-ui/src/i18n/locales/zh.json
+  s_112ba831203b93::t_57190dbcd91d9f 161-162,833-844,1462-1475,1565,1629-1663,2321-2356
+packages/web-ui/src/main.tsx
+  s_112ba831203b93::t_b293b9dd5023f1 17,53-76
+packages/web-ui/src/pages/Editor.tsx
+  s_112ba831203b93::t_7fb2110ce86e71 217,964-965,1007,1011,1034-1035,1039,1053,1057-1071,1078,1081-1083,1086,1088,1100-1108,1116,1119,1130,5352-5355,5359-5364,5368,5371-5373,5378-5395,5401-5406,5448-5451,5472-5476,5618,5620-5629,5633-5638,5641-5687,7145
+packages/web-ui/src/pages/Settings.tsx
+  s_112ba831203b93::t_9fe42f1a96a879 16,34,46,57,85,100-105,112,126-127,131,138-142,226-229
+packages/web-ui/src/types/notebook.ts
+  s_112ba831203b93::t_c5737f4379ad42 41-43,46-50,52-59
+packages/web-ui/src/utils/columnUsage.ts
+  s_112ba831203b93::t_779fb8d40c4d0c 531-537,542-544,553-561,584-589
+packages/web-ui/src/utils/connectionColorBar.ts
+  s_112ba831203b93::t_3a2c8e9c7ac6e3 1-15
+packages/web-ui/src/utils/connectionCredentialProfile.ts
+  s_112ba831203b93::t_7bf75e3459c8fa 1-129
+packages/web-ui/src/utils/credentialProfileErrors.ts
+  s_112ba831203b93::t_c4ab4ef9eb52a7 1-51
+packages/web-ui/src/utils/credentialProfiles.ts
+  s_112ba831203b93::t_ca3bb53c8c2d8a 1-114
+packages/web-ui/src/utils/credentials.ts
+  s_112ba831203b93::t_f79fd6799ac597 26-27
+packages/web-ui/src/utils/notebookFile.ts
+  s_112ba831203b93::t_280c4bee3f083d 3,7-39,43
+packages/web-ui/src/utils/notebookParams.ts
+  s_112ba831203b93::t_32891de0f38e95 1-6,14-16,21,26,28-29,33-45,47,67-143,145-243,249-251,253,256-262,266-275,280,303-403
+packages/web-ui/src/utils/notebookRunAll.ts
+  s_112ba831203b93::t_74b3d62ece2798 8-12,14,20-68
+packages/web-ui/src/utils/sessionAccess.ts
+  s_112ba831203b93::t_117307aa70598a 1-13
+packages/web-ui/src/utils/tabLayout.ts
+  s_112ba831203b93::t_3e9f6d21e01399 1-8
+packages/web-ui/src/utils/triggerSql.ts
+  s_112ba831203b93::t_86decdedf1ef31 99-100,144-145,158-168,193-195,198-225,227-230,322-325,328-330,332-333,351,379-463,476,508-509,575-576,578-580,582,587-599,602-603
+packages/web-ui/tests/api/contract.type-test.ts
+  s_112ba831203b93::t_fb2d3ba1bcd59c 18-30,226-229,314-317,368-369
+packages/web-ui/tests/api/contract/transportContract.ts
+  s_112ba831203b93::t_d9095c54002408 132-134,942-944
+packages/web-ui/tests/api/dualTransportContract.test.ts
+  s_112ba831203b93::t_486bed78a01c91 21-25
+packages/web-ui/tests/components/credentialProfiles/CredentialProfilesManager.test.tsx
+  s_112ba831203b93::t_0f5254bd61998f 1-373
+packages/web-ui/tests/components/explain/ExplainGraph.test.tsx
+  s_112ba831203b93::t_531215c6ffac40 1-109
+packages/web-ui/tests/components/layout/ConnectionColorBar.test.tsx
+  s_112ba831203b93::t_75342f2f8f83f2 1-48
+packages/web-ui/tests/components/layout/MainLayout.test.tsx
+  s_112ba831203b93::t_4c495f7e7f1600 32-35
+packages/web-ui/tests/components/modals/CredentialProfileConnectionFields.test.tsx
+  s_112ba831203b93::t_481182de6c4ebf 1-133
+packages/web-ui/tests/components/modals/NewConnectionModal.test.tsx
+  s_112ba831203b93::t_88e27687ab65dd 21-23,63-68,87,338-367,2582-3003
+packages/web-ui/tests/components/modals/TriggerEditorModal.test.tsx
+  s_112ba831203b93::t_666b80e477f293 311-323,326-327,370-425
+packages/web-ui/tests/components/notebook/NotebookView.test.tsx
+  s_112ba831203b93::t_beb6ef38779bfa 2,11-12,56,58,61,92-93,240-243,760-764,801,821-825,870-874,1683-1858
+packages/web-ui/tests/components/notebook/NotebookViewParams.test.tsx
+  s_112ba831203b93::t_671c476e3eb0ba 1-324
+packages/web-ui/tests/components/notebook/ParamsPanel.test.tsx
+  s_112ba831203b93::t_5917cc1bcf6b1e 1-405
+packages/web-ui/tests/components/settings/AppearanceTab.test.tsx
+  s_112ba831203b93::t_faeea866084a08 166-209
+packages/web-ui/tests/components/settings/SettingControls.test.tsx
+  s_112ba831203b93::t_5c823628bd9509 2,199-261
+packages/web-ui/tests/components/ui/PasswordInput.test.tsx
+  s_112ba831203b93::t_8a92f710f283ab 12,15,29
+packages/web-ui/tests/components/ui/RelatedRecordsPanel.test.tsx
+  s_112ba831203b93::t_5bb397d4732811 1-45
+packages/web-ui/tests/contexts/ProductionGuardContext.test.tsx
+  s_112ba831203b93::t_a7fe2fd6d6ee2c 5,29,51-69,77,112-188
+packages/web-ui/tests/contexts/UpdateProvider.test.tsx
+  s_112ba831203b93::t_80c5b49e7a7c36 2-3,20-24,440-495
+packages/web-ui/tests/hooks/useCanManageCredentialProfiles.test.tsx
+  s_112ba831203b93::t_a9a3c322b2563a 1-52
+packages/web-ui/tests/hooks/useDangerousQueryGuard.test.ts
+  s_112ba831203b93::t_42c160248f1a12 40,107,119,124,130-132,135-142,148-159
+packages/web-ui/tests/i18n/notebookParams.test.ts
+  s_112ba831203b93::t_b4828d7511a7b1 1-99
+packages/web-ui/tests/pages/EditorVerticalTabs.test.tsx
+  s_112ba831203b93::t_d4d248ec713040 1-227
+packages/web-ui/tests/pages/Settings.test.tsx
+  s_112ba831203b93::t_d48a61a13912d9 34-36,95-97,391-399
+packages/web-ui/tests/pages/SettingsCredentialProfilesAccess.test.tsx
+  s_112ba831203b93::t_cf9392dc681b8f 1-180
+packages/web-ui/tests/utils/columnUsage.test.ts
+  s_112ba831203b93::t_56740f396f0e9e 202-255
+packages/web-ui/tests/utils/connectionColorBar.test.ts
+  s_112ba831203b93::t_3cf4cbbc28e0b4 1-23
+packages/web-ui/tests/utils/connectionCredentialProfile.test.ts
+  s_112ba831203b93::t_0c7e6fd7f1d153 1-143
+packages/web-ui/tests/utils/credentialProfileErrors.test.ts
+  s_112ba831203b93::t_2f95fb730c21a9 1-34
+packages/web-ui/tests/utils/credentialProfiles.test.ts
+  s_112ba831203b93::t_4432080dec7c55 1-136
+packages/web-ui/tests/utils/notebookFile.test.ts
+  s_112ba831203b93::t_534366734f10a5 3,657-732
+packages/web-ui/tests/utils/notebookParams.test.ts
+  s_112ba831203b93::t_7a0626b9899a5c 3,12-23,25-27,211-818
+packages/web-ui/tests/utils/notebookRunAll.test.ts
+  s_112ba831203b93::t_f91ca2e0bd9c94 4-5,55-104
+packages/web-ui/tests/utils/notebookTransfer.test.ts
+  s_112ba831203b93::t_9de20c5c71e2c0 106-133
+packages/web-ui/tests/utils/notebookUndo.test.ts
+  s_112ba831203b93::t_b4dae899134e97 156-191
+packages/web-ui/tests/utils/sessionAccess.test.ts
+  s_112ba831203b93::t_444866f529e405 1-82
+packages/web-ui/tests/utils/tabLayout.test.ts
+  s_112ba831203b93::t_d1cbad9b2eafdd 1-20
+packages/web-ui/tests/utils/triggerSql.test.ts
+  s_112ba831203b93::t_ac4648dd1b550f 10,18,352-412,457-506,660-723
+plugins/PLUGIN_GUIDE.md
+  s_112ba831203b93::t_6dba754f9b7231 183,262,286,288,364-395
+src-tauri/resources/guest/host.css
+  s_112ba831203b93::t_0bc6d27a91201c 580-582,1267-1269,2065-2068,2217-2222,2592-2597,3495-3497,7356-7361
+src-tauri/src/application/connection_files.rs
+  s_112ba831203b93::t_105fbd056d460b 311-317,321,335-348,365-366,508-518,524-527,529,534-559,563-579,581-587,613-618,649,651-668,824-872,877,899-914
+src-tauri/src/application/connection_files_tests.rs
+  s_112ba831203b93::t_41d65f7a2051f2 2,6,8-9,45-50,288-1222,1328-1420
+src-tauri/src/application/connection_provisioning.rs
+  s_112ba831203b93::t_106f94f63e10ef 26,74-77,95-99,106,108,123-124
+src-tauri/src/application/connection_secret_writes.rs
+  s_112ba831203b93::t_f75baad4c9054c 4,7,19,34
+src-tauri/src/application/connections.rs
+  s_112ba831203b93::t_bcd9c0a9d5a129 5,8-9,122-136,188,253,316,319,323,330-351,421-422,428,464-477,552-560,564-572,575-595,597,656-815,856,860,862-870,876-878,946-949,958-966,1049,1051-1058,1060-1066,1080-1087,1092,1110-1154,1162-1164,1218-1219,1222-1225,1263,1277,1279,1286,1288-1289,1291,1304-1315,1319,1434-1465,1467-1471,1473-1501,1504-1511,1513,1515-1522,1525,1533-1541,1583-1604,1635-1696,1720-1732,1741-1763,1765-1766,1796-1812,1821-1834,1842-1858,1872-1884,1892-1896,1898-1899,1907-1915,1917-1918,2026,2028,2038-2041,2046-2048,2395-2416,2423,2433-2434,2438,2443-2451
+src-tauri/src/application/connections_tests.rs
+  s_112ba831203b93::t_5d43d6f68f3080 7-10,122-172,864,1231-1294,1296-1301,1304-1328,1332-1347,1349,1351-1353,1355-1358,1360-1367,1369-1374,1378-1380,1382-1389,1391-1396,1400-1407,1409-1415,1419-1427,1429-1431,1433-1434,1436-1560,1562,1564-1565,1567-1597,1601-1603,1606-1803,1809-1840,1845-1848,1853-1857,1861,1863,1866-1869,1873-4098
+src-tauri/src/application/database_objects.rs
+  s_112ba831203b93::t_ab16a02e77c4ce 789
+src-tauri/src/application/persistence.rs
+  s_112ba831203b93::t_4036c53aade44c 310-311
+src-tauri/src/application/persistence_tests.rs
+  s_112ba831203b93::t_42622c35a759d8 424,426
+src-tauri/src/config.rs
+  s_112ba831203b93::t_60cb4b96792c2e 116-121
+src-tauri/src/connection_import/convert.rs
+  s_112ba831203b93::t_a053df7a9a107e 58-59
+src-tauri/src/connection_import/tabularis.rs
+  s_112ba831203b93::t_fbacdb9382cfab 107-108,112,194-223,259,313-314,439-473
+src-tauri/src/connection_migrations.rs
+  s_112ba831203b93::t_a749f62534cdc6 131-133,168-178
+src-tauri/src/connection_migrations_tests.rs
+  s_112ba831203b93::t_cf10450d8ca3f7 228
+src-tauri/src/connection_tags.rs
+  s_112ba831203b93::t_19c849846d416f 201
+src-tauri/src/credential_profiles.rs
+  s_112ba831203b93::t_7ca42214a0d05c 1-279
+src-tauri/src/drivers/common/query.rs
+  s_112ba831203b93::t_64e271b08bcbfa 158-205,218,232-237,248-252,288-294,429-432,434,447-450,459-466,504-517,519,525
+src-tauri/src/drivers/common/tests.rs
+  s_112ba831203b93::t_266189c3a37a19 575-636
+src-tauri/src/drivers/mysql/cancel.rs
+  s_112ba831203b93::t_fb9a0e003e4e5e 8-10,16-27,48,52-58
+src-tauri/src/drivers/mysql/cancel/tests.rs
+  s_112ba831203b93::t_210e49c02e211d 1-20
+src-tauri/src/drivers/mysql/mod.rs
+  s_112ba831203b93::t_0aca3bcc2ad6ed 2088,2090-2091,2141-2143,2153,2161
+src-tauri/src/drivers/sqlite/cancel.rs
+  s_112ba831203b93::t_47bb51f7c1280f 1-9,12-28,30-36,38-58,61-62,67-128,132,134-165
+src-tauri/src/drivers/sqlite/mod.rs
+  s_112ba831203b93::t_966321d838c5f4 5,781-788,795-800,815-816,820-822,828-829,839-840,848,850,853-856,862-890,892,1139
+src-tauri/src/drivers/sqlite/tests.rs
+  s_112ba831203b93::t_f8bbdf47232f39 665-887
+src-tauri/src/export_import_tests.rs
+  s_112ba831203b93::t_3d2bd9fd947619 4-5,59-60,89-164,216-217
+src-tauri/src/keychain_utils.rs
+  s_112ba831203b93::t_4c916973d17c6d 158-162
+src-tauri/src/lib.rs
+  s_112ba831203b93::t_a915cc7fa2fe87 45
+src-tauri/src/mcp/mod.rs
+  s_112ba831203b93::t_b17442b236aa6e 275-302,307-310
+src-tauri/src/models.rs
+  s_112ba831203b93::t_b709f58ef67a38 119-127,274-277,477-478,532-537
+src-tauri/src/models_tests.rs
+  s_112ba831203b93::t_aeb72350e01970 4-5,266-494
+src-tauri/src/persistence.rs
+  s_112ba831203b93::t_c41a59e6a02529 2,7-25,47,55-62,77-83,97-98,100-102,111,155-157,301
+src-tauri/src/persistence_tests.rs
+  s_112ba831203b93::t_930f475fa8cd0c 4-5,7,115-158
+src-tauri/src/plugins/driver.rs
+  s_112ba831203b93::t_aedfdf00f077e4 2868
+src-tauri/src/pool_manager.rs
+  s_112ba831203b93::t_6c788fdf68c793 114-119,420
+src-tauri/src/pool_manager_tests.rs
+  s_112ba831203b93::t_83574a14507965 1075-1089
+src-tauri/src/transport/desktop/commands.rs
+  s_112ba831203b93::t_c6ac0230cec62f 351-411,542-546,556,561-563,565-572,594-595,601-616,666,902-905,907-910,912-914,916-953,955-961,964-989,992-1001,1003-1004,1007-1025
+src-tauri/src/transport/desktop/health_check.rs
+  s_112ba831203b93::t_6f31b0f7c445ff 295-299,327-330,333-334,336-337
+src-tauri/src/transport/desktop/mod.rs
+  s_112ba831203b93::t_e26e25e21e4558 425-428
+src-tauri/src/transport/desktop/tests.rs
+  s_112ba831203b93::t_c72c0f05246ed3 1-3,5,160-407
+src-tauri/src/transport/web/managed_mode_tests.rs
+  s_112ba831203b93::t_78c4c2c5fa4254 486-551
+src-tauri/src/transport/web/rpc.rs
+  s_112ba831203b93::t_c1aaaa2be2795f 514-517,1438-1454,2241-2242,2814-2817,2829-2838,4625-4649
+src-tauri/src/transport/web/rpc_managed_policy.rs
+  s_112ba831203b93::t_7eecd7bc953d03 102-107
+src-tauri/src/transport/web/rpc_managed_policy_tests.rs
+  s_112ba831203b93::t_06097a740a4365 88-91
+src-tauri/src/transport/web/rpc_managed_tests.rs
+  s_112ba831203b93::t_57db4ef62d91cb 84-86,101
+src-tauri/src/transport/web/rpc_tests.rs
+  s_112ba831203b93::t_8bfba3771626f1 3276-3348
+src-tauri/src/transport/web/tests.rs
+  s_112ba831203b93::t_090465a3fb1459 1029-1040
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "97f05981dcea25c63e442331eb18f2577f5831dc",
+  "prompts": {},
+  "sessions": {
+    "s_112ba831203b93": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20d1f-288c-7b60-816a-782261766b3a",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Sosadfly <childrenbodyemail@qq.com>"
+    }
+  }
+}
