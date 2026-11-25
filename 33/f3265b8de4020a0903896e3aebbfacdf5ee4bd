@@ -1,0 +1,19 @@
+src-tauri/src/drivers/mysql/mod.rs
+  s_4b6aab67abff0a::t_662db8387b9bac 285-289
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "33f3265b8de4020a0903896e3aebbfacdf5ee4bd",
+  "prompts": {},
+  "sessions": {
+    "s_4b6aab67abff0a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a21147-c557-74a3-ba66-56e29313543d",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Sosadfly <childrenbodyemail@qq.com>"
+    }
+  }
+}
